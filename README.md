@@ -45,3 +45,7 @@
          alt="azure" width="40" height="40"/>
   </a>
 </p>
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/FanaticFiz/FanaticFiz/output/github-contribution-grid-snake.svg)
+
+_generated with [Platane/snk](https://github.com/Platane/snk)_
